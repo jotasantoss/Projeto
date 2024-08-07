@@ -1,6 +1,6 @@
-# Nome do Projeto
+#  Projeto
 
-Descrição breve do seu projeto.
+projeto de inicialização no Css, html e JavaScript
 
 ## Instalação
 
